@@ -83,6 +83,7 @@ A entrada contém um número inteiro **M** (0 ≤ **M** ≤ 360) representando o
 
 Imprima uma saudação referente ao período do dia que ele se encontra: "Boa Tarde!!", "Boa Noite!!", "Bom Dia!!" e "De Madrugada!!".
 
-| Exemplo de Entrada | Exemplo de Saída                                      |
-| ------------------ | ----------------------------------------------------- |
-| 0 45 360 90 180    | Bom Dia!! Bom Dia!! Bom Dia!! Boa Tarde!! Boa Noite!! |
+| Exemplo de Entrada                      | Exemplo de Saída                                             |
+| --------------------------------------- | ------------------------------------------------------------ |
+| 0 <br />45 <br />360 <br />90 <br />180 | Bom Dia!! <br />Bom Dia!! <br />Bom Dia!! <br />Boa Tarde!! <br />Boa Noite!! |
+
